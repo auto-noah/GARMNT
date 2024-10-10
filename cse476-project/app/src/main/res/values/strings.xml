@@ -1,0 +1,48 @@
+<resources>
+    <!--  Main strings -->
+    <string name="app_name">Project</string>
+    <string name="camera_text">Move to the camera test activity.</string>
+    <string name="random_text">Move to the random activity.</string>
+    <string name="login_text_1">Move to the Login activity.</string>
+    <string name="closet_text">Move to the Closet activity.</string>
+    <string name="closet_button">Closet</string>
+
+    <!--  Login strings  -->
+    <string name="login_text">Login</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="logo_description">Image of the Garmnt logo</string>
+
+    <!--  Closet strings  -->
+    <string name="closet_welcome">Welcome To Your \n Closet!</string>
+    <string name="closet_welcome_land">Welcome To Your Closet!</string>
+    <string name="left_button">&lt;</string>
+    <string name="right_button">&gt;</string>
+
+    <!--  Random strings  -->
+    <string name="random_welcome">Don\'t Know What to Wear? \n Here\'s a suggestion:</string>
+    <string name="random_welcome_land">Don\'t Know What to Wear? Here\'s a suggestion:</string>
+    <string name="shirt_image_description">Image of a shirt from the wardrobe</string>
+    <string name="top_image_description">Image of a top from the wardrobe</string>
+    <string name="pants_image_description">Image of pants from the wardrobe</string>
+    <string name="shoes_image_description">Image of shoes from the wardrobe</string>
+    <string name="random_button">Randomize</string>
+    <string name="logout_button">Logout</string>
+    <!--  Lock/Unlock strings  -->
+    <string name="lock_top_button">Lock Top</string>
+    <string name="unlock_top_button">Unlock Top</string>
+    <string name="lock_shirt_button">Lock Shirt</string>
+    <string name="unlock_shirt_button">Unlock Shirt</string>
+    <string name="lock_pants_button">Lock Pants</string>
+    <string name="unlock_pants_button">Unlock Pants</string>
+    <string name="lock_shoes_button">Lock Shoes</string>
+    <string name="unlock_shoes_button">Unlock Shoes</string>
+    <string name="save_button">\u2764</string>
+
+    <!--  Upload strings  -->
+    <string name="upload_welcome">Upload an Image by pressing the Upload button!</string>
+    <string name="upload_button">Upload</string>
+    <string name="upload_image_description">Image of the uploaded clothing item</string>
+    <string name="add_item_button">Add item to closet</string>
+    <string name="item_name_hint">Item Name</string>
+</resources>

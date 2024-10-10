@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "280306301093",
+    "project_id": "garmnt-80186",
+    "storage_bucket": "garmnt-80186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:280306301093:android:3174475ba13fc83ef0754c",
+        "android_client_info": {
+          "package_name": "msu.cse476.hakalaja.project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZUXQqGH0SQ-186RawTOHSIvU97klqxZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
